@@ -1,0 +1,17 @@
+{
+  "url": "https://www.mi.com/global/about/sustainability/#/",
+  "unique_key": "https://www.mi.com/global/about/sustainability",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "query_params": {},
+  "data": {},
+  "user_data": {},
+  "retry_count": 0,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "wpbm1E0d4vNjuv7",
+  "json_": "{\n  \"url\": \"https://www.mi.com/global/about/sustainability/#/\",\n  \"unique_key\": \"https://www.mi.com/global/about/sustainability\",\n  \"method\": \"GET\",\n  \"payload\": null,\n  \"headers\": {},\n  \"query_params\": {},\n  \"data\": {},\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": \"RequestState.REQUEST_HANDLER\"\n    }\n  },\n  \"retry_count\": 0,\n  \"no_retry\": false,\n  \"loaded_url\": \"https://www.mi.com/global/about/sustainability/#/\",\n  \"handled_at\": \"2024-09-04 07:20:00.041953+00:00\",\n  \"id\": \"wpbm1E0d4vNjuv7\",\n  \"json_\": null,\n  \"order_no\": null\n}",
+  "order_no": null
+}
